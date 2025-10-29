@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+torch
+git+https://github.com/huggingface/transformers.git
+
